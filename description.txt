@@ -1,0 +1,17 @@
+Have you ever felt that vanilla's world generation was somewhat bland, because it always generates the same types of chests for all biomes? Well, worry no more!
+Chest Type Variety is a mod that does what it says on the tin- it replaces a handful of chest types with relevant alternatives based on the biome the chest generated in. This only works on mods generated after the mod is enabled, though.
+The following chest types are affected by this mod:
+Wooden Chest -> Ebonwood Chest (Corruption)/Shadewood Chest (Crimson)/Boreal Wood Chest (Snow)/Rich Mahogany Chest or Bamboo Chest (Jungle, 50% chance for either)/Bone Chest (Dungeon)/Pumpkin Chest (Halloween, 10% chance)
+Gold Chest -> Lesion Chest (Corruption)/Flesh Chest (Crimson)/Obsidian Chest (Caverns layer, 25% chance)/Golden Chest (Pyramids)
+Locked Gold Chest -> Locked Dungeon Chest (color matches with dungeon's color)
+Web-Covered Chest -> Spider Chest (5% chance)
+Water Chest -> Reef Chest (5% chance)
+
+Additionally, this mod tries to replace Gold Chests that generate out in the open in Glowing Mushroom, Granite, or Marble biomes with the biome's respective chest, and there is a 1% chance on the Celebrationmk10 seed that any chest may be replaced by a Balloon Chest.
+If playing with the "lite" config setting enabled (introduced in version 1.1.0), only Wooden Chests outside of the dungeon are replaced. As a result, Shimmer recipes are left unchanged.
+
+Note that (aside from the Mushroom/Granite/Marble chests) these changes are purely visual. The actual contents of the chests are not modified by this mod.
+To avoid exploits that allow players to obtain items early, several chests were given restrictions on when they can be decrafted using Shimmer when the "lite" config setting is not enabled:
+* Obsidian Chests cannot be decrafted until the world's evil boss is defeated
+* Bone Chests cannot be decrafted until Skeletron is defeated
+* Spider Chests cannot be decrafted until Hardmode

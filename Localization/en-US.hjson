@@ -1,0 +1,18 @@
+Mods: {
+	ChestVariety: {
+		Configs: {
+			ChestConfig: {
+				LiteMode: {
+					Label: "[i:Chest] Chest Variety Lite"
+					Tooltip:
+						'''
+						Disables all chest changes except ones that affect Wooden Chests outside the Dungeon, and disables Shimmer recipe restrictions
+						Changing this config setting will only affect newly-generated worlds! Existing worlds' chests will not be updated!
+						'''
+				}
+
+				DisplayName: Chest Variety Config
+			}
+		}
+	}
+}
